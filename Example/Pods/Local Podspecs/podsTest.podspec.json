@@ -1,0 +1,22 @@
+{
+  "name": "podsTest",
+  "version": "0.1.0",
+  "summary": "A short description of podsTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bazinga/podsTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bazinga": "qianbs@tradenb.com"
+  },
+  "source": {
+    "git": "https://github.com/bazinga/podsTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podsTest/Classes/**/*"
+}
